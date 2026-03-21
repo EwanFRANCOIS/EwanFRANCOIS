@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ewanfrancois&label=Profile%20views&color=0e75b6&style=flat" alt="ewanfrancois" /> </p>
 
-- 📫 How to reach me --> **ewanfrancois33@gmail.com**
+- 📫 How to reach me --> **ewan.francois299@gmail.com**
 
 - ⚡ Fun fact : It’s possible to be afraid of happiness—it’s called “cherophobia.” **I think some people have that**
 
