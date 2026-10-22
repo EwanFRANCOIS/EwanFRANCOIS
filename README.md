@@ -18,7 +18,7 @@
 - Love coding
 - Love sports
 - Love u twin <3
-- (don't hesitate to add me on discord : Rolgndar ^^)
+- (don't hesitate to add me on discord : KoreNova ^^)
 
 
 ## 📊 GitHub Stats & Trophies
