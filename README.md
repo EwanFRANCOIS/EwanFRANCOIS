@@ -66,12 +66,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/EwanFRANCOIS">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EwanFRANCOIS&langs_count=8&hide=html,c,cmake&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://stats.pphat.top/languages?username=EwanFRANCOIS&hide=html" alt="Top language" />
 </p>
 
