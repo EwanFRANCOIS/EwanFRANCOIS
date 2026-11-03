@@ -20,6 +20,8 @@
 - Love u twin <3
 - (don't hesitate to add me on discord : KoreNova ^^)
 
+<img width="600" height="600" alt="rd4w1smgxk781" src="https://github.com/user-attachments/assets/69f564b8-79b4-496f-a70d-94028d3bc8f6" />
+
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/EwanFRANCOIS">
@@ -68,6 +70,8 @@
 <p align="center">
   <img src="https://stats.pphat.top/languages?username=EwanFRANCOIS&hide=html" alt="Top language" />
 </p>
+
+<img width="498" height="427" alt="tako-takover-ninomae-inanis-ezgif com-remove-background(1)" src="https://github.com/user-attachments/assets/307c596f-d04e-450a-bc64-de9c43aa52e4" />
 
 ## 🔗 Connect with Me
 <p align="center">
