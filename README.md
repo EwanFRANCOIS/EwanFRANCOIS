@@ -71,8 +71,6 @@
   <img src="https://stats.pphat.top/languages?username=EwanFRANCOIS&hide=html" alt="Top language" />
 </p>
 
-<img width="498" height="427" alt="tako-takover-ninomae-inanis-ezgif com-remove-background(1)" src="https://github.com/user-attachments/assets/307c596f-d04e-450a-bc64-de9c43aa52e4" />
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ewan-francois-4369573b6/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Ewan Francois's LinkedIn"/></a>&nbsp;&nbsp;
@@ -87,3 +85,5 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
+
+<img width="498" height="427" alt="tako-takover-ninomae-inanis-ezgif com-remove-background(1)" src="https://github.com/user-attachments/assets/307c596f-d04e-450a-bc64-de9c43aa52e4" />
