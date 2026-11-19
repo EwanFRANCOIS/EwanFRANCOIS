@@ -25,13 +25,13 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/EwanFRANCOIS">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EwanFRANCOIS&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="EwanFRANCOIS's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EwanFRANCOIS&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="EwanFRANCOIS's GitHub Stat" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=EwanFRANCOIS&theme=radical&hide_border=true&cache_seconds=86400" alt="EwanFRANCOIS's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=EwanFRANCOIS&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ewan Francois's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=EwanFRANCOIS&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ewan Francois's GitHub Trophies"/>
 </p>
 
 <p align="center">
